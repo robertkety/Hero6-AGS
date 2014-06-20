@@ -1,0 +1,10 @@
+# Windows compatibility:
+desktop.ini
+
+# Hero6 Source Code compatibility:
+Compiled/
+_Debug/
+backup_acsprset.spr
+README.MD
+*.bak
+_OpenInEditor.lock
